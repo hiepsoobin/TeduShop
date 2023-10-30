@@ -10,7 +10,7 @@ namespace TeduShop.Web.Controllers
     {
         public ActionResult Index()
         {
-            return View(); anh
+            return View();em
         }
 
         public ActionResult About()
