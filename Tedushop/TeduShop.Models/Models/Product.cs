@@ -18,9 +18,9 @@ namespace TeduShop.Models.Models
             
         public string CategoryName { get; set; }
         public string CategoryDescription { get; set; }
-        public int ProductCategoryId { get; set;
+        public int ProductCategoryId { get; set; }
             
-        public int ProductCategoryName { get; set;
+        public int ProductCategoryName { get; set; }
         public int ProductCategoryDescription { get; set;}
     }
     }
